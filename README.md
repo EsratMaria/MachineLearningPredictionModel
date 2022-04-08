@@ -1,4 +1,4 @@
-# A Regression based Prediction Algorithm 
+# A Regression based Prediction Algorithm
 In this repository, I make a model for predicting housing prices based on previous training data. This model is able to predict the future house prices with great accuracy.
 
 ## Dataset
