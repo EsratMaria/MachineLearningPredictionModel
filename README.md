@@ -11,6 +11,6 @@ regression score = 90.7%
 We can also use ```LinearRegression``` 
 
 I also showed a graph comparing the real price and the predicted price by the regression model.
-this graph is like below:    
+this graph is like below:   
 
 ![](images/plot1.png)
