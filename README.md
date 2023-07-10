@@ -1,7 +1,7 @@
 # A Regression based Prediction Algorithm
 In this repository, I make a model for predicting housing prices based on previous training data. This model is able to predict the future house prices with great accuracy.
 
-## Dataset   
+## Dataset  
 I have used a housing dataset from [Kaggle](https://www.kaggle.com/). It can be found [here](dataset/kc_house_data.csv).
 ## Accuracy Plot
 The regression score is quite high due to using ```GradientBoostingRegressor``` 
