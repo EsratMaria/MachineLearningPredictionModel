@@ -4,7 +4,7 @@ In this repository, I make a model for predicting housing prices based on previo
 ## Dataset
 I have used a housing dataset from [Kaggle](https://www.kaggle.com/). It can be found [here](dataset/kc_house_data.csv).
 ## Accuracy Plot
-The regression score is quite high due to using ```GradientBoostingRegressor``` 
+The regression score is quite high due to using ```GradientBoostingRegressor```
 ```
 regression score = 90.7%
 ```
